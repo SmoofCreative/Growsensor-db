@@ -7,51 +7,43 @@
       "data": {
         "temperature": {
           "value": "29",
-          "flag": "danger",
           "direction": "falling",
           "recovery": true
         },
         "humidity": {
           "value": "0.99",
-          "flag": "success",
           "direction": "falling",
           "recovery": false
         },
         "co2": {
           "value": "19400",
-          "flag": "success",
           "direction": "rising",
           "recovery": true
         },
         "vpd": {
           "value": "1.4",
-          "flag": "success",
           "direction": "falling",
           "recovery": true
         },
         "ppf": {
           "value": "1000",
-          "flag": "",
           "direction": "",
           "recovery": ""
         },
         "dew": {
           "value": "22",
-          "flag": "success",
           "direction": "rising",
           "recovery": ""
         },
         "pressure": {
           "value": "99.2",
-          "flag": "success",
           "direction": "falling",
           "recovery": true
         },
         "battery": {
           "value": "low",
-          "flag": "danger",
           "direction": "",
-          "recovery": ""
+          "recovery": false
         }
       },
       "alerts": 3
@@ -64,49 +56,41 @@
       "data": {
         "temperature": {
           "value": "26",
-          "flag": "success",
           "direction": "rising",
           "recovery": true
         },
         "humidity": {
           "value": "0.45",
-          "flag": "success",
           "direction": "falling",
           "recovery": true
         },
         "co2": {
           "value": "536",
-          "flag": "success",
           "direction": "rising",
           "recovery": true
         },
         "vpd": {
           "value": "0.9",
-          "flag": "success",
           "direction": "falling",
           "recovery": ""
         },
         "ppf": {
           "value": "500",
-          "flag": "",
           "direction": "",
           "recovery": ""
         },
         "dew": {
           "value": "16",
-          "flag": "success",
           "direction": "rising",
           "recovery": ""
         },
         "pressure": {
           "value": "60.2",
-          "flag": "success",
           "direction": "falling",
           "recovery": ""
         },
         "battery": {
           "value": "full",
-          "flag": "",
           "direction": "",
           "recovery": ""
         }
@@ -121,49 +105,41 @@
       "data": {
         "temperature": {
           "value": "26",
-          "flag": "danger",
           "direction": "rising",
           "recovery": ""
         },
         "humidity": {
           "value": "0.45",
-          "flag": "",
           "direction": "",
           "recovery": ""
         },
         "co2": {
           "value": "560",
-          "flag": "danger",
           "direction": "falling",
           "recovery": ""
         },
         "vpd": {
           "value": "0.9",
-          "flag": "danger",
           "direction": "falling",
           "recovery": ""
         },
         "ppf": {
           "value": "500",
-          "flag": "",
           "direction": "",
           "recovery": ""
         },
         "dew": {
           "value": "16",
-          "flag": "",
           "direction": "",
           "recovery": ""
         },
         "pressure": {
           "value": "60.2",
-          "flag": "",
           "direction": "",
           "recovery": ""
         },
         "battery": {
           "value": "low",
-          "flag": "",
           "direction": "",
           "recovery": ""
         }
