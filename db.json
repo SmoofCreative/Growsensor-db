@@ -147,5 +147,7 @@
       "alerts": 0
     }
   ],
-  "settings": []
+  "settings": {
+    "temperatureUnit": "celsius"
+  }
 }
